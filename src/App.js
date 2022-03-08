@@ -1,5 +1,5 @@
 import Expenses from "./components/Expenses/Expenses";
-import NewExpense from "./components/NewExpense/NewExpense";
+import NewExpense from "./components/NewExpenses/NewExpense";
 import { useState } from "react";
 
 let dateString = "";
